@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a dedicated software developer with a strong passion for building scalable and efficient web applications. With a year of hands-on experience, I have developed skills in both front-end and back-end development, working with technologies like HTML, CSS, React, Laravel, Tailwind CSS, JavaScript, Java, PHP, MySQL, and more. I enjoy solving complex challenges, optimizing performance, and creating seamless user experiences. My goal is to apply my expertise to develop practical and effective solutions that drive business growth and enhance digital experiences.`;
+export const HERO_CONTENT = `I am a dedicated Software Developer with a strong passion for building scalable and efficient web applications. With a year of hands-on experience, I have developed skills in both front-end and back-end development, working with technologies like HTML, CSS, React, Laravel, Tailwind CSS, JavaScript, Java, PHP, MySQL, and more. I enjoy solving complex challenges, optimizing performance, and creating seamless user experiences. My goal is to apply my expertise to develop practical and effective solutions that drive business growth and enhance digital experiences.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full-stack developer with a passion for building efficient and user-friendly web applications. With one year of professional experience, I have worked with a range of technologies, including HTML, CSS, React, Laravel, Tailwind CSS, JavaScript, Java, PHP, and MySQL.
 
@@ -13,41 +13,33 @@ Outside of coding, I enjoy staying active, exploring new technologies, and contr
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "2024 - Present",
+    role: "Software Developer",
+    company: "Freelance",
+    description: `Developed a project website for a student by gathering requirements and implementing key features, resulting in a fully functional and well-received submission for their academic project.
+Implemented custom websites for clients by designing responsive and user-friendly interfaces, resulting in improved client satisfaction and engagement.
+Established clear communication with clients by discussing project requirements and objectives, resulting in a better understanding of their needs and expectations.
+`,
+    technologies: ["HTML", "CSS", "React JS", "Tailwind"],
   },
   {
     year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-  },
-  {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    role: "City Hall Data Entry Specialist Intern	",
+    company: "City Hall",
+    description: `Maintained data integrity by carefully digitizing physical records, resulting in enhanced accuracy and efficient access to information for the team.
+ Improved data accessibility by transferring physical documents into digital formats, ensuring accurate records and easy retrieval for future use.
+Optimized the data management process by inputting information from paper files into the electronic system, resulting in improved data organization and reduced retrieval time.
+`,
+    technologies: ["HTML", "CSS", "React JS", "Tailwind"],
   },
 ];
 
-export const PROFILE = {
-  name: "David Stones",
-  role: "Full Stack Developer",
-  subheading:
-    "With 10 years of full-stack development experience, I build efficient, scalable web applications. Not on the job hunt, but always curious about interesting projects.",
-};
+// export const PROFILE = {
+//   name: "David Stones",
+//   role: "Full Stack Developer",
+//   subheading:
+//     "With 10 years of full-stack development experience, I build efficient, scalable web applications. Not on the job hunt, but always curious about interesting projects.",
+// };
 
 export const PROJECTS2 = [
   {
@@ -63,8 +55,8 @@ export const PROJECTS2 = [
     id: 2,
     title: "Social Media App",
     description:
-      "A real-time social media app with chat, notifications, and a customizable profile page. Built with React, Firebase, and Redux for state management.",
-    techStack: ["React", "Firebase", "Redux"],
+      "Indulge in a culinary experience like no other at [Restaurant Name]. Our website brings you a glimpse of our carefully crafted menu, showcasing a fusion of flavors made with the freshest ingredients.",
+    techStack: ["HTML", "CSS", "React JS", "Tailwind"],
     imgSrc: project2,
     link: "https://example-socialapp.com",
   },
@@ -73,7 +65,7 @@ export const PROJECTS2 = [
     title: "Portfolio Website",
     description:
       "This landing page is designed to showcase the Media and Information Literacy (MIL) exam along with various student projects completed throughout the semester. It serves as an informative and engaging platform where students can access exam details, review their past projects, and reflect on their learning journey.",
-    techStack: ["Next.js", "Tailwind CSS"],
+    techStack: ["HTML", "CSS", "React JS", "Tailwind"],
     imgSrc: project3,
     link: "http://localhost:5173/",
   },
