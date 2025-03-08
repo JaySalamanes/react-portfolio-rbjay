@@ -67,7 +67,7 @@ export const PROJECTS2 = [
       "This landing page is designed to showcase the Media and Information Literacy (MIL) exam along with various student projects completed throughout the semester. It serves as an informative and engaging platform where students can access exam details, review their past projects, and reflect on their learning journey.",
     techStack: ["HTML", "CSS", "React JS", "Tailwind"],
     imgSrc: project3,
-    link: "http://localhost:5173/",
+    link: "https://creativity-mil.netlify.app/",
   },
 ];
 
