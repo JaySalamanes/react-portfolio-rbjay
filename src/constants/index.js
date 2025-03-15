@@ -44,7 +44,7 @@ Optimized the data management process by inputting information from paper files 
 export const PROJECTS2 = [
   {
     id: 1,
-    title: "E-commerce Website",
+    title: "VirtualR Website",
     description:
       "Experience the future of digital interaction with cutting-edge Virtual Reality technology. Our platform brings immersive, interactive, and lifelike virtual experiences to life, revolutionizing gaming, education, training, and beyond. Explore new worlds, push the boundaries of reality, and unlock endless possibilities with the power of VR.",
     techStack: ["HTML", "CSS", "React JS", "Tailwind"],
@@ -53,16 +53,16 @@ export const PROJECTS2 = [
   },
   {
     id: 2,
-    title: "Social Media App",
+    title: "A Taste of Excellence: Discover Restaura’s Culinary Creations",
     description:
-      "Indulge in a culinary experience like no other at [Restaurant Name]. Our website brings you a glimpse of our carefully crafted menu, showcasing a fusion of flavors made with the freshest ingredients.",
+      "Indulge in a culinary experience like no other at Restaura. Our website brings you a glimpse of our carefully crafted menu, showcasing a fusion of flavors made with the freshest ingredients.",
     techStack: ["HTML", "CSS", "React JS", "Tailwind"],
     imgSrc: project2,
     link: "https://example-socialapp.com",
   },
   {
     id: 3,
-    title: "Portfolio Website",
+    title: "LPU MIL Website",
     description:
       "This landing page is designed to showcase the Media and Information Literacy (MIL) exam along with various student projects completed throughout the semester. It serves as an informative and engaging platform where students can access exam details, review their past projects, and reflect on their learning journey.",
     techStack: ["HTML", "CSS", "React JS", "Tailwind"],
